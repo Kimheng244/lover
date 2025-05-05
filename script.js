@@ -13,4 +13,8 @@ btnno.onmousemove = () =>{
     btnyes.onclick = () =>{
         window.open("https://youtu.be/NwFVSclD_uc?si=OF42kg4pdCmuAbpH","_self");
     }
+    
+}
+btnyes.onclick = () =>{
+    window.open("https://youtu.be/NwFVSclD_uc?si=OF42kg4pdCmuAbpH","_self");
 }
